@@ -1,0 +1,271 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.banner_pic {
+    width: 300px;
+}
+
+.deal_pic{
+    width: 200px;
+}
+
+h1 {
+    font-weight: bolder;
+    margin-bottom: 15px;
+    font-family:'Lato';
+    font-size: 55px;
+  
+}
+
+h2 {
+    font-weight: bolder;
+    margin-bottom: 15px;
+    font-family:'Lato';
+    font-size: 32px;
+  
+}
+
+h3 {
+    font-weight: bolder;
+    margin-bottom: 15px;
+    font-family:'Lato';
+    font-size: 32px;
+    padding-left: 18px;
+}
+
+.insta{
+    font-weight: bolder;
+    margin-bottom: 15px;
+    font-family:'Lato';
+    font-size: 25px;
+    padding-left: 85px;
+  
+}
+p{
+    color:#272727;
+    margin-bottom: 15px;
+    font-size: 12px;
+    font-family: 'Lato';
+    line-height:25px;
+    
+}
+.banner_main{
+    display:flex;
+    justify-content: space-around;
+    height: 50vh;
+    align-items: center;
+    background-color: rgba(229, 84, 115, 0.10);
+    
+}
+
+.btn_01{
+    border-radius: 5px;
+    background-color: #E55473;
+    padding: 15px 30px;
+    color: white;
+    border:none;
+    
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.btn_02{
+    border-radius: 5px;
+    background-color: #E55473;
+    padding: 15px 30px;
+    color: white;
+    border:none;
+    margin-left: 120px;
+
+}
+
+.deal{
+    display:flex;
+    justify-content: space-around;
+    height: 50vh;
+    align-items: center;
+    background-color: rgba(229, 84, 115, 0.05);
+   
+}
+
+.flower_caption{
+    display:flex;
+    justify-content: space-around;
+    width:1200px;
+    margin:auto;
+}
+
+.flower_caption1{
+    width:300px;
+    height:350px;
+    padding:70px;
+    border-radius: 580px 580px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    margin-bottom: 75px;
+    margin-right:50px;
+
+}
+
+.flower_caption2{
+    width:300px;
+    height:350px;
+    padding:70px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    margin-bottom: 75px;
+    margin-right:50px;
+
+}
+
+
+.flower_caption3{
+    width:300px;
+    height:350px;
+    padding:70px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    margin-bottom: 75px;
+    
+}
+
+.box1{
+    background-image: url('./pngwing\ 6.png');
+    background-repeat: no-repeat;
+    height:420px;
+    width:310px;
+    align-items: center;
+    
+}
+
+.box2{
+    background-image: url('./pngwing\ 5.png');
+    background-repeat: no-repeat;
+    height:420px;
+    width:310px;
+    align-items: center;
+    
+}
+
+
+.box3{
+    background-image: url('./pngwing\ 7.png');
+    background-repeat: no-repeat;
+    height:420px;
+    width:310px;
+    align-items: center;
+    
+}
+
+
+.capt{
+    line-height:75px;
+    text-decoration: underline;
+    text-align:center;
+    font-weight:bolder;
+}
+
+
+.off{
+    color:#E55473;
+}
+
+.text{
+    padding-left: 40px;
+    
+}
+
+.hotdeal{
+    padding-left: 0px;
+    
+}
+
+ .featured{
+    margin-top: 75px;
+    margin-bottom: 75px;
+    margin-left:40%;
+}
+ 
+ .photos{
+    width:1200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 200px;
+
+ }
+
+ img{
+    height:310px;
+    width: 290px;
+    padding: 1055x;
+ }
+
+ .subscribe{
+    margin-top: 70px;
+    width:1200px;
+    background-image: url(./bg.png);
+    margin-left: 200px;
+    height: 300px;
+    background-repeat: no-repeat;
+ }
+.sub_text{
+    padding-top:40px;
+    font-weight: bolder;
+    margin-bottom: 15px;
+    font-family:'Lato';
+    font-size: 25px;
+    padding-left: 85px;
+    text-align:center;
+}
+
+.coupon{
+    text-align: center;
+    margin-left:70px;
+    margin-bottom:40px;
+}
+
+input{
+    padding:20px 250px;
+    border-radius:9px;
+    margin-left:300px;
+    margin-right:-110px;
+}
+
+.footer{
+    margin-top:90px;
+    height:350px;
+    width:100%;
+    background-color:#111010;
+}
+
+.shop{
+    padding-top: 100px;
+    margin-left:600px;
+    font-weight: bolder;
+
+    font-family:'Lato';
+    font-size: 35px;
+    padding-left: 85px;
+    color:white;
+ 
+}
+
+.shop2{
+    color:white;
+    margin-left:600px;
+}
+
+.flower{
+    color: #E55473;
+}
+
+.copy{
+    color:rgba(255, 255, 255, 0.40);
+    margin-left:630px;
+    margin-top: 30px;
+}
